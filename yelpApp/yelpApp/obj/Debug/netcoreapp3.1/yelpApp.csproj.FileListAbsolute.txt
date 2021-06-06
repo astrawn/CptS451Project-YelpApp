@@ -1,0 +1,128 @@
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.exe
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.deps.json
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.runtimeconfig.json
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.runtimeconfig.dev.json
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.dll
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.pdb
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.csprojAssemblyReference.cache
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\obj\Debug\netcoreapp3.1\BusinessDetails.g.cs
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\obj\Debug\netcoreapp3.1\yelpApp_MarkupCompile.cache
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\obj\Debug\netcoreapp3.1\yelpApp_MarkupCompile.lref
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\obj\Debug\netcoreapp3.1\BusinessDetails.baml
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.g.resources
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.csproj.CoreCompileInputs.cache
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.AssemblyInfoInputs.cache
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.AssemblyInfo.cs
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.csproj.CopyComplete
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.dll
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.pdb
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.genruntimeconfig.cache
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\obj\Debug\netcoreapp3.1\AddTipWindow.g.cs
+C:\Users\Alex Strawn\Desktop\cpts451-project\milestone2\yelpApp\obj\Debug\netcoreapp3.1\AddTipWindow.baml
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.exe
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.deps.json
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.runtimeconfig.json
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.runtimeconfig.dev.json
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.dll
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.pdb
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.csprojAssemblyReference.cache
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\AddTipWindow.g.cs
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\BusinessDetails.g.cs
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp_MarkupCompile.cache
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp_MarkupCompile.lref
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\AddTipWindow.baml
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\BusinessDetails.baml
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.g.resources
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.csproj.CoreCompileInputs.cache
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.AssemblyInfoInputs.cache
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.AssemblyInfo.cs
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.csproj.CopyComplete
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.dll
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.pdb
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.genruntimeconfig.cache
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.exe
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.deps.json
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.runtimeconfig.json
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.runtimeconfig.dev.json
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.dll
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.pdb
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.csprojAssemblyReference.cache
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\AddTipWindow.g.cs
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\BusinessDetails.g.cs
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp_MarkupCompile.cache
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp_MarkupCompile.lref
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\AddTipWindow.baml
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\BusinessDetails.baml
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.g.resources
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.AssemblyInfoInputs.cache
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.AssemblyInfo.cs
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.csproj.CoreCompileInputs.cache
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.csproj.CopyComplete
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.dll
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.pdb
+C:\Users\vogel\OneDrive\Documents\School\CS451\Project\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.genruntimeconfig.cache
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.exe
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.deps.json
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.runtimeconfig.json
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.runtimeconfig.dev.json
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.dll
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.pdb
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.csprojAssemblyReference.cache
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\AddTipWindow.g.cs
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\BusinessDetails.g.cs
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp_MarkupCompile.cache
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp_MarkupCompile.lref
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\AddTipWindow.baml
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\BusinessDetails.baml
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.g.resources
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.AssemblyInfo.cs
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.csproj.CopyComplete
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.dll
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.pdb
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.genruntimeconfig.cache
+C:\Users\John\Desktop\451\repo\cpts451-project\m3_final\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.exe
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.deps.json
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.runtimeconfig.json
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.runtimeconfig.dev.json
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.dll
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\yelpApp.pdb
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.csprojAssemblyReference.cache
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\AddTipWindow.g.cs
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\BusinessDetails.g.cs
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp_MarkupCompile.cache
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp_MarkupCompile.lref
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\AddTipWindow.baml
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\BusinessDetails.baml
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.g.resources
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.AssemblyInfo.cs
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.csproj.CopyComplete
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.dll
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.pdb
+C:\Users\John\Desktop\451\cpts451-project\yelpApp\yelpApp\obj\Debug\netcoreapp3.1\yelpApp.genruntimeconfig.cache
+C:\Users\Alex Strawn\Desktop\cpts451-project\yelpApp\yelpApp\bin\Debug\netcoreapp3.1\DotNetProjects.DataVisualization.Toolkit.dll

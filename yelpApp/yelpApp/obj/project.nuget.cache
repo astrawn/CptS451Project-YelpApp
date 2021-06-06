@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t7WnTsV8j2781W+W551/Bxoo6xqJ0PBifZfhMjHjp29Wg9CzKFNViO62ILMvRw1wnYwGa/05Zgp6K8d9zZ+88g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex Strawn\\Desktop\\cpts451-project\\yelpApp\\yelpApp\\yelpApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex Strawn\\.nuget\\packages\\dotnetprojects.wpftoolkit.datavisualization\\6.0.87\\dotnetprojects.wpftoolkit.datavisualization.6.0.87.nupkg.sha512",
+    "C:\\Users\\Alex Strawn\\.nuget\\packages\\npgsql\\5.0.3\\npgsql.5.0.3.nupkg.sha512",
+    "C:\\Users\\Alex Strawn\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
